@@ -1,0 +1,3 @@
+[submodule "food-search-api"]
+	path = food-search-api
+	url = git@github.com:henrywalters/food-search-api.git
